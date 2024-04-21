@@ -1,4 +1,4 @@
-a simple blockchain demo for learning 
+A simple blockchain demo for learning learned from Go&Rusty Yt
 
 
 # blockchain-rust -
